@@ -1,6 +1,6 @@
 # notes
 
-A new Flutter project.
+A simple note app useing hiveDb for sitware.
 
 ## Getting Started
 
