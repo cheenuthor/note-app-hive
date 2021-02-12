@@ -1,6 +1,6 @@
 # notes
 
-A simple note app useing hiveDb for sitware.
+A simple note app using hiveDb for sitware.
 
 ## Getting Started
 
